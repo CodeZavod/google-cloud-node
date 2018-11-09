@@ -2,3 +2,4 @@ node_modules/*
 coverage/*
 docs/json/**/*.json
 *.log
+.idea/
